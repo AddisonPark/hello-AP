@@ -12,8 +12,8 @@ alert("Cool!");
 }
 </script>
 <button onclick="askQuestions()">Click Me</button>
-
- <style>
-color:purple
+h1
+ {
 text-align:center;
-<style/>
+color:purple;
+<head/><style/>
