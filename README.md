@@ -22,5 +22,4 @@ alert("Cool!");
 </script>
 <button onclick="askQuestions()">Click Me,</button>
 
-
-
+<img src="https://s-media-cache-ak0.pinimg.com/originals/ff/a4/e8/ffa4e8161253da3663b143158806a2d7.png" width=250 height=250>
