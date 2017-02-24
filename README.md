@@ -4,11 +4,11 @@ Hi!  I'm Addison.  Let me tell you a little bit about myself. I really like craf
 
 
  
-h1 { text-align:center;
+<h1> { text-align:center;
 color: purple;}
 
  
-</head>
+
 
 
 <script>
