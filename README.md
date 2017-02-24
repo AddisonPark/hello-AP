@@ -20,5 +20,7 @@ var word = prompt('What is a word you would use to describe you?');
 alert("Cool!");
 }
 </script>
-<button onclick="ask()">Ask Me</button>
+<button onclick="askQuestions()">Click Me,</button>
+
+
 
