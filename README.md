@@ -4,10 +4,9 @@ Hi!  I'm Addison.  Let me tell you a little bit about myself. I really like craf
 
 <head>
  <style>
-h1 { 
-text-align:center;
-color:purple;
-}
+h1 { text-align:center;
+color: purple;}
+
  </style>
 </head>
 
