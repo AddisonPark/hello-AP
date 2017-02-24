@@ -3,10 +3,11 @@
 Hi!  I'm Addison.  Let me tell you a little bit about myself. I really like crafts, drawing and creating different things.  This website is about making crafts.
 
 
- 
+ <head>
 <style> 
-{ text-align:center;
-color: purple;}
+h1 {
+color: purple;
+}
 </style>
  
 
@@ -19,5 +20,5 @@ var word = prompt('What is a word you would use to describe you?');
 alert("Cool!");
 }
 </script>
-<button onclick="askQuestions()">Click Me</button>
+<button onclick="ask()">Ask Me</button>
 
